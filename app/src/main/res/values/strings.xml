@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DeviceControlKit</string>
+    <string name="kv_format">KV: %d</string>
+    <string name="ma_format">mA: %d</string>
+</resources>
